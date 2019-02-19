@@ -11,3 +11,10 @@ https://roundtrippdf.com/en/downloads/
 **Pre-processing**
 
 The dataset contains 27 PDFs, first step is to convert the PDF into images.
+
+
+
+**Model**
+
+![alt text](https://github.com/sabaridsn/DocumentTableSeg/blob/master/Presentation1.jpg)
+
